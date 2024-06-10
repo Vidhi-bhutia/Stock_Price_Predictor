@@ -1,9 +1,9 @@
 numpy
 pandas
-matplotlib.pyplot 
+matplotlib
 yfinance 
-keras.models
+keras
 streamlit 
 datetime  
-sklearn.preprocessing 
+sklearn
 os
