@@ -5,5 +5,5 @@ yfinance
 keras
 streamlit 
 datetime  
-sklearn
+scikit-learn 
 os
