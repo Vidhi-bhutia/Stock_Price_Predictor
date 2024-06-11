@@ -1,5 +1,5 @@
 scikit-learn==1.2.2
-numpy==1.26.4
+numpy>=1.22,<1.24  # Adjusted to be compatible with tensorflow
 pandas==2.2.2
 matplotlib==3.9.0
 yfinance==0.2.40
