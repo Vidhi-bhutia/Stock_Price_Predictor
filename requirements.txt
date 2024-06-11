@@ -1,9 +1,8 @@
 scikit-learn==1.2.2
-numpy 
-pandas 
-matplotlib
-yfinance 
-keras.models 
-streamlit
-datetime 
-os
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.9.0
+yfinance==0.2.40
+keras==2.12.0
+streamlit==1.35.0
+datetime==5.5
