@@ -47,7 +47,7 @@ Flask==2.0.1
 flatbuffers==23.5.26
 folium==0.12.1
 fonttools==4.39.4
-frozendict==2.3.6
+frozendict==2.3.7
 frozenlist==1.3.3
 gast==0.5.4
 gensound==0.5.3
