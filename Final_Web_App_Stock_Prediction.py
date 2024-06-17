@@ -9,9 +9,9 @@ from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics import mean_squared_error
 
 # Load models
-model_1 = load_model("LSTM_Stock Prediction Model.keras")
-model_2 = load_model("GRU_Stock_Prediction_Model.keras")
-model_3 = load_model("TCN_Stock_Prediction_Model.keras")
+model_1 = load_model("LSTM_Stock Prediction Model.h5")
+model_2 = load_model("GRU_Stock_Prediction_Model.h5")
+model_3 = load_model("TCN_Stock_Prediction_Model.h5")
 
 # Streamlit Application
 st.markdown(
